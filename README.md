@@ -9,7 +9,7 @@ The libraries NumPy, random, Matplotlib, Pandas, Requests, BeautifulSoup (bs4) a
 The input should be a csv file containing the columns ['Ticker', 'Average Cost', 'Shares', 'Dividend Yield' and 'Industry'] in any order. It is also recommended to include a column 'Stock Name' for readability, although this is column is not necessary. One may either build such a csv file from scratch or convert an Excel or other format spreadsheet into csv format. 
 
 ### Sample Excel Spreadsheet
-![Sample EXCEL Spreadsheet](https://github.com/RiaStevens/Portfolio-Analysis/blob/master/images/input-example.jpg
+![Sample Excel Spreadsheet](https://github.com/RiaStevens/Portfolio-Analysis/blob/master/images/input-example.jpg
 )
 
 ### Sample csv File
@@ -18,13 +18,14 @@ The input should be a csv file containing the columns ['Ticker', 'Average Cost',
 
 ## Sample Output
 Four different items which may be considered output are produced by the program.
-The first is a tabulate table of the updated data which is printed to the console.
+
 ### Sample Tabulate Output
+The first is a tabulate table of the updated data which is printed to the console.
 ![Sample Tabulate Output](https://github.com/RiaStevens/Portfolio-Analysis/blob/master/images/tabulate-output.jpg
 )
 
+### Sample ExceL Output
 The second is an updated Excel spreadsheet saved to the working directory.
-### Sample Excel Output
 ![Sample Excel Output](https://github.com/RiaStevens/Portfolio-Analysis/blob/master/images/excel-output.jpg
 )
 
@@ -33,8 +34,8 @@ Third is a nested pie chart depicting the allocation of value in one's portfolio
 ![Sample Pie Chart](https://github.com/RiaStevens/Portfolio-Analysis/blob/master/images/pie-output.jpg
 )
 
-Fourth is a double bar graph depicting the change in the value of each stock in the portfolio.
 ### Sample Bar Graph
+Fourth is a double bar graph depicting the change in the value of each stock in the portfolio.
 ![Sample Bar Graph](https://github.com/RiaStevens/Portfolio-Analysis/blob/master/images/bar-output.jpg
 )
 
