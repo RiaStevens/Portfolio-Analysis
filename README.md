@@ -24,7 +24,7 @@ First is a tabulate table of the updated data which is printed to the console.
 ![Sample Tabulate Output](https://github.com/RiaStevens/Portfolio-Analysis/blob/master/images/tabulate-output.jpg
 )
 
-### Sample ExceL Output
+### Sample Excel Output
 Second is an updated Excel spreadsheet saved to the working directory.
 ![Sample Excel Output](https://github.com/RiaStevens/Portfolio-Analysis/blob/master/images/excel-output.jpg
 )
