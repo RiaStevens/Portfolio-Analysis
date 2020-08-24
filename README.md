@@ -41,4 +41,4 @@ Fourth is a double bar graph depicting the change in the value of each stock in 
 
 ## Next Steps
 - Build more graphs to analyze different aspects of the portfolio, such as dividends
-- Implement greater exception-handling
+- Implement greater exception handling
