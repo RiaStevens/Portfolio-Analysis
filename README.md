@@ -20,22 +20,22 @@ The input should be a csv file containing the columns ['Ticker', 'Average Cost',
 Four different items which may be considered output are produced by the program.
 The first is a tabulate table of the updated data which is printed to the console.
 ### Sample Tabulate Output
-![Sample csv file](https://github.com/RiaStevens/Portfolio-Analysis/blob/master/images/tabulate-output.jpg
+![Sample Tabulate Output](https://github.com/RiaStevens/Portfolio-Analysis/blob/master/images/tabulate-output.jpg
 )
 
 The second is an updated Excel spreadsheet saved to the working directory.
 ### Sample Excel Output
-![Sample csv file](https://github.com/RiaStevens/Portfolio-Analysis/blob/master/excel-output.jpg
+![Sample Excel Output](https://github.com/RiaStevens/Portfolio-Analysis/blob/master/images/excel-output.jpg
 )
 
 Third is a nested pie chart depicting the allocation of value in one's portfolio between sectors and individual stocks.
 ### Sample Pie Chart
-![Sample csv file](https://github.com/RiaStevens/Portfolio-Analysis/blob/master/images/pie-output.jpg
+![Sample Pie Chart](https://github.com/RiaStevens/Portfolio-Analysis/blob/master/images/pie-output.jpg
 )
 
 Fourth is a double bar graph depicting the change in the value of each stock in the portfolio.
 ### Sample Bar Graph
-![Sample csv file](https://github.com/RiaStevens/Portfolio-Analysis/blob/master/images/bar-output.jpg
+![Sample Bar Graph](https://github.com/RiaStevens/Portfolio-Analysis/blob/master/images/bar-output.jpg
 )
 
 ## Next Steps
